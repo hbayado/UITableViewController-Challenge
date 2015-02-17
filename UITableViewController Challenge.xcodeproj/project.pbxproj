@@ -38,8 +38,8 @@
 		AEFD556B1A9181AD0027E4FD /* UITableViewController ChallengeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "UITableViewController ChallengeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		AEFD55701A9181AD0027E4FD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		AEFD55711A9181AD0027E4FD /* UITableViewController_ChallengeTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = UITableViewController_ChallengeTests.m; sourceTree = "<group>"; };
-		AEFD557B1A9385270027E4FD /* HBTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = HBTableViewController.h; path = ../HBTableViewController.h; sourceTree = "<group>"; };
-		AEFD557C1A9385270027E4FD /* HBTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = HBTableViewController.m; path = ../HBTableViewController.m; sourceTree = "<group>"; };
+		AEFD557B1A9385270027E4FD /* HBTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HBTableViewController.h; sourceTree = "<group>"; };
+		AEFD557C1A9385270027E4FD /* HBTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HBTableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
